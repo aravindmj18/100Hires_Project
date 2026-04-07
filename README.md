@@ -1,7 +1,9 @@
 # AI Development Environment Setup with Cursor, Claude & Codex
 
 > Documenting a setup of an AI-assisted development workflow;
-
+![Image1](assets/Image1.png)
+![Image2](assets/Image2.png)
+![Image3](assets/Image3.png)
 ## What This Is
 
 This project focuses on completing the setup successfully while solving issues encountered during the process.
@@ -18,7 +20,7 @@ This project focuses on completing the setup successfully while solving issues e
 ## Setup Walkthrough
 
 ### 1. Installing Cursor IDE
-<img width="1750" height="907" alt="claudecurser" src="https://github.com/user-attachments/assets/3094b458-1187-4eb3-b5b2-152a1e228094" />
+![Cursor Setup](assets/Image1.png)
 
 Downloaded the installer from [cursor.com](https://cursor.com/) and followed the standard installation steps. No issues here — Cursor launched cleanly on the first try.
 
@@ -48,7 +50,7 @@ Installed the Codex extension through the same extensions panel, logged in witho
 
 ### 1. Git wasn't installed
 
-<img width="1448" height="837" alt="clone repo issue in Cursor" src="https://github.com/user-attachments/assets/8ee1c8c0-ca77-4cfa-ad9e-4d644d7ce757" />
+![Cursor Setup](assets/Image2.png)
 
 **What happened:**  
 When I tried to clone the repository using Cursor IDE, the "clone repo" button did not respond. There was no error message or feedback, which made it unclear what the issue was.
@@ -68,7 +70,7 @@ After checking basic setup steps and searching for similar issues, I found that 
 The repository was successfully cloned, and the issue was resolved.
 
 ### 2. Claude Code login restriction
-<img width="1657" height="836" alt="Screenshot 2026-04-06 202444" src="https://github.com/user-attachments/assets/f18424bb-56c0-459a-8202-39c26a388dc8" />
+![Cursor Setup](assets/Image3.png)
 
 **What happened:** After installing the extension, I couldn't log in — it required a paid subscription.
 
