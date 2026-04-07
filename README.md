@@ -2,7 +2,7 @@
 
 > Documenting the setup of Cursor IDE with Claude Code and Codex, including issues and solutions.
 
-## What This Is
+## Overview
 
 This project focuses on completing the setup successfully while solving issues encountered during the process.
 
