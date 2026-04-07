@@ -28,7 +28,7 @@ Created a new public repository on GitHub with a name and description, without i
 
 ### 3. Connecting the Repo to Cursor
 
-Opened the repository inside Cursor and tried to clone it locally — which immediately failed. See below for what happened.
+Opened the repository inside Cursor and attempted to clone it locally. The initial attempt failed due to a missing dependency (Git). After resolving the issue, the repository was successfully cloned and connected.
 
 
 ### 4. Setting Up Claude Code
