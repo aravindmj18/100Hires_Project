@@ -1,9 +1,7 @@
 # AI Development Environment Setup with Cursor, Claude & Codex
 
 > Documenting a setup of an AI-assisted development workflow;
-![Image1](assets/Image1.png)
-![Image2](assets/Image2.png)
-![Image3](assets/Image3.png)
+
 ## What This Is
 
 This project focuses on completing the setup successfully while solving issues encountered during the process.
