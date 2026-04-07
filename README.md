@@ -1,6 +1,6 @@
-# AI Development Environment Setup with Cursor, Claude & Codex
+# Cursor IDE Setup with Claude and Codex
 
-> Documenting a setup of an AI-assisted development workflow;
+> Documenting the setup of Cursor IDE with Claude Code and Codex, including issues and solutions.
 
 ## What This Is
 
@@ -110,12 +110,6 @@ This setup wasn’t very complex technically, but it made me realize how importa
 - Most issues happened because something small was missing (like Git), not because the tool was broken  
 - It’s better to understand why something failed instead of just trying random fixes  
 - Writing things down while working helped me stay clear and actually understand each step  
-
-## What's Next
-
-- Get access to Claude Code's Pro tier and compare it directly against Codex on real tasks
-- Use both tools on an actual development project, not just a setup exercise
-- Write up a proper comparison based on hands-on use
 
 ## Author
 
