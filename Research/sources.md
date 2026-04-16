@@ -131,3 +131,129 @@ more effective.
 **Date collected:** 15/04/2026
 
 ---
+
+### 4. Florin Tatulea
+- **LinkedIn:** https://www.linkedin.com/in/florin-tatulea/
+- **Role:** B2B Growth & Sales Leader
+- **Tier:** Practitioner
+
+**Why included:**
+Tatulea posts structured, process-oriented outbound content grounded
+in real execution. Strong on the operational side of outbound —
+building repeatable systems, holding SDR teams accountable, and
+structuring pipeline reviews. Tactical without being generic.
+
+**Content collected:**
+- LinkedIn posts (frameworks + process breakdowns)
+
+**Highest signal content:**
+- Sales process architecture
+- Outreach strategy teardowns
+- SDR performance frameworks
+
+**Key insight:**
+> Consistency and process discipline are the differentiators in
+> outbound. Most teams fail not from bad tactics, but from
+> inconsistent execution of good ones.
+
+**Date collected:** 15/04/2026
+
+---
+
+### 5. Steli Efti
+- **LinkedIn:** https://www.linkedin.com/in/steliefti/
+- **YouTube:** https://www.youtube.com/@CloseIO
+- **Role:** CEO, Close | Sales Expert
+- **Tier:** Founder-Operator
+
+**Why included:**
+Built Close.io (sales CRM) and grew it primarily through outbound
+sales. Efti represents the *founder-led outbound* perspective —
+understanding how outreach connects to company-level growth, not
+just individual deal flow. His content on sales fundamentals and
+communication psychology is among the most timeless in the space.
+
+**Content collected:**
+- LinkedIn posts
+- YouTube transcripts (Close.io channel)
+
+**Highest signal content:**
+- Cold calling frameworks and scripts
+- Sales psychology and communication principles
+- Objection handling at the system level
+
+**Key insight:**
+> Sales fundamentals — clarity, confidence, genuine value delivery —
+> consistently outperform tactical hacks. Most outbound fails because
+> reps skip fundamentals, not because they lack new tricks.
+
+**Date collected:** 16/04/2026
+
+---
+
+### 6. Guillaume Moubeche
+- **LinkedIn:** https://www.linkedin.com/in/guillaumemoubeche/
+- **YouTube:** https://www.youtube.com/@lemlist
+- **Role:** Founder, lemlist | Investor
+- **Tier:** Tool Builder + Founder
+
+**Why included:**
+Built lemlist to a \$150M+ valuation using cold outreach as the
+primary growth channel. Has platform-level visibility into what
+outbound strategies work across thousands of campaigns. Provides
+both founder-level strategic perspective and campaign-level tactical
+insight.
+
+**Content collected:**
+- 40 LinkedIn posts
+- YouTube transcripts (lemlist channel)
+
+**Highest signal content:**
+- Outbound as a company growth engine
+- Founder-led sales strategies
+- Cold email campaign architecture
+
+**Key insight:**
+> Outbound is not just a sales tactic — it's a company-building
+> strategy. When executed as a system, it becomes a predictable
+> revenue engine.
+
+**⚠️ Caveat:**
+Recent LinkedIn content has shifted toward investing and founder
+lifestyle. Older content (2021–2023) is more outreach-focused.
+YouTube channel (lemlist) remains highly tactical and relevant.
+Cross-reference claims with non-tool-affiliated sources to
+account for potential platform bias.
+
+**Date collected:** 16/04/2026
+
+---
+
+### 7. Will Aitken
+- **LinkedIn:** https://www.linkedin.com/in/willaitken/
+- **YouTube:** https://www.youtube.com/@WillAitken
+- **Role:** Sales Content Creator | Outbound Specialist
+- **Tier:** Educator-Practitioner
+
+**Why included:**
+Aitken creates some of the most practical and digestible cold
+outreach content available — especially around cold calling and
+LinkedIn DMs. Strong communicator who translates complex concepts
+into immediately usable frameworks. Selected for his clarity in
+explaining messaging principles.
+
+**Content collected:**
+- LinkedIn posts
+- YouTube transcripts
+
+**Highest signal content:**
+- Cold call opening frameworks
+- Sales messaging simplification principles
+- Prospecting workflow tips
+
+**Key insight:**
+> Simplicity and clarity in outreach messaging dramatically
+> outperform complex, feature-heavy pitches. Less is more —
+> especially in first-touch outreach.
+
+**Date collected:** 16/04/2026
