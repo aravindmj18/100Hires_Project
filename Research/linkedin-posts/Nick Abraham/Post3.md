@@ -10,4 +10,4 @@ I know because we actively run it for clients targeting local businesses. Here's
 
 If you can tailor your offering to local businesses of any kind, I strongly recommend testing this out.
 
-![Nick Abraham](../../assets/nick-abraham.jpg)
+![Nick Abraham](../../assets/nickabraham.jpg)
