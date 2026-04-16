@@ -257,10 +257,6 @@ The end goal is to build a **usable outbound system** — not just a collection 
 
 ---
 
-## Author
-
-**Aravind Mudraveni**  
-Aspiring AI Growth Marketer | Digital Marketing & Tech Enthusiast
 
 ## Author
 
