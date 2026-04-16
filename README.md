@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Phase 1 — Environment Setup](#phase-1--environment-setup)
-- [Phase 2 — Research Project](#phase-2--research-project-cold-outreach-pipeline-for-b2b-saas)
+- [Phase 2 — Research Project](#phase-2---research-project)
 
 # Phase 1 — Environment Setup
 
@@ -128,7 +128,7 @@ This setup wasn’t very complex technically, but it made me realize how importa
 
 ---
 
-# Phase 2 — Research Project: Cold Outreach Pipeline for B2B SaaS ✅
+# Phase 2 - Research Project
 
 ## Objective
 
@@ -183,6 +183,84 @@ but based on four strict criteria:
 - **Actionable content** — frameworks, scripts, real insights  
 - **Pipeline coverage** — together they cover the full outbound system  
 
+---
+
+## Data Collected
+
+For each expert:
+
+- 🎥 2 YouTube videos → transcripts extracted using Supadata API  
+- 💼 3–5 LinkedIn posts → manually curated high-signal content  
+
+Current progress:
+
+- ✅ Experts identified and documented  
+- ✅ YouTube transcripts collected and organized  
+- ✅ LinkedIn posts collected and structured  
+- ✅ Framework extracted
+
+All content is organized per expert and per source:
+
+- `/research/youtube-transcripts/{expert-name}/`
+- `/research/linkedin-posts/{expert-name}/`
+
+This structure enables systematic analysis and playbook development.
+
+---
+
+## Tools & Workflow
+
+- Used **Supadata API** to extract YouTube transcripts  
+- Used **AI tools (Claude/Codex)** to:
+  - Extract key takeaways  
+  - Identify repeatable frameworks  
+
+This workflow enables efficient data collection and structured synthesis.
+
+---
+
+## Pipeline Coverage Map
+
+Every stage of a cold outreach pipeline is covered by at least
+one expert in this research set:
+
+- Targeting & Prospecting → Jason Bay, Nick Abraham  
+- Messaging & Positioning → Taylor Haren, Josh Braun  
+- Cold Calling & Conversations → Armand Farrokh, Will Aitken  
+- Email Systems & Deliverability → Yurii Veremchuk  
+- Multi-Channel Outreach → Morgan J Ingram  
+- Full Pipeline Strategy → Florin Tatulea, Steli Efti  
+
+---
+
+## Next Steps
+
+- Extract repeatable frameworks from each expert’s content  
+- Identify cross-expert patterns in:
+  - Messaging  
+  - Prospecting  
+  - Outreach execution  
+- Synthesize findings into a structured cold outreach playbook  
+- Translate insights into a step-by-step outbound pipeline system  
+
+---
+
+## Key Focus
+
+This project prioritizes:
+
+- Quality over quantity  
+- Practical frameworks over generic advice  
+- Real-world execution over theory  
+
+The end goal is to build a **usable outbound system** — not just a collection of notes.
+
+---
+
+## Author
+
+**Aravind Mudraveni**  
+Aspiring AI Growth Marketer | Digital Marketing & Tech Enthusiast
 
 ## Author
 
