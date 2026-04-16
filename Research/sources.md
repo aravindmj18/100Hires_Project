@@ -235,8 +235,7 @@ Armand Farrokh is a leading practitioner in modern B2B outbound execution, with 
 ---
 
 ### 7. Will Aitken
-- **LinkedIn:** https://www.linkedin.com/in/willaitken/
-- **YouTube:** https://www.youtube.com/@WillAitken
+- **LinkedIn:** https://www.linkedin.com/in/justwillaitken/
 - **Role:** Sales Content Creator | Outbound Specialist
 - **Tier:** Educator-Practitioner
 
