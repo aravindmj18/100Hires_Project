@@ -9,5 +9,3 @@ I know because we actively run it for clients targeting local businesses. Here's
 3. The overall messaging looks more like a local business owner reaching out to someone up the street from them than a highly targeted and well-crafted sales email, which is exactly the point. 
 
 If you can tailor your offering to local businesses of any kind, I strongly recommend testing this out.
-
-![Nick Abraham](../../assets/nickabraham.jpg)

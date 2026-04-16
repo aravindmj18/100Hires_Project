@@ -59,7 +59,5 @@ You can't expect your reps to make calls if you aren't willing to do it yourself
 The best orgs lean in. And senior leaders "go and see" for themselves what's happening. It starts at the top.
 
 
-~~~
-
 
 Outbound requires a village to work. Put in the work, and it'll work.
