@@ -17,6 +17,22 @@ not just teach about them.
 
 ---
 
+## Core Insight
+
+Across all sources, a consistent pattern emerges:
+
+Outbound fails not because the channel is saturated,
+but because of misalignment across four layers:
+
+1. Positioning (wrong ICP, weak messaging)
+2. Infrastructure (poor deliverability setup)
+3. Execution (inconsistent outreach)
+4. System design (lack of leadership and process)
+
+High-performing teams treat outbound as a system —
+not an activity.
+
+
 ## Expert Roster
 
 | # | Name | Role | Primary Signal |
@@ -26,7 +42,7 @@ not just teach about them.
 | 3 | Taylor Haren | Founder, Haren Media | Offer Positioning + Outreach Messaging |
 | 4 | Florin Tatulea | B2B Growth Leader | Outbound Process + Pipeline Frameworks |
 | 5 | Steli Efti | CEO, Close | Outbound Psychology + Conversion Principles |
-| 6 | Guillaume Moubeche | Founder, lemlist | Personalization + Cold Outreach Systems |
+| 6 | Armand Farrokh | Sales Leader | Cold Calling + Outbound Execution |
 | 7 | Will Aitken | Sales Creator | Sales Conversations + Cold Calling Execution |
 | 8 | Yurii Veremchuk | Cold Email Expert | Email Deliverability + Campaign Infrastructure |
 | 9 | Morgan J Ingram | Founder, AMP Creative | Multi-Channel Outreach + Video Prospecting |
@@ -133,7 +149,7 @@ more effective.
 ---
 
 ### 4. Florin Tatulea
-- **LinkedIn:** https://www.linkedin.com/in/florin-tatulea/
+- **LinkedIn:** https://www.linkedin.com/in/florintatulea/
 - **Role:** B2B Growth & Sales Leader
 - **Tier:** Practitioner
 
@@ -162,7 +178,6 @@ structuring pipeline reviews. Tactical without being generic.
 
 ### 5. Steli Efti
 - **LinkedIn:** https://www.linkedin.com/in/steliefti/
-- **YouTube:** https://www.youtube.com/@CloseIO
 - **Role:** CEO, Close | Sales Expert
 - **Tier:** Founder-Operator
 
@@ -191,39 +206,29 @@ communication psychology is among the most timeless in the space.
 
 ---
 
-### 6. Guillaume Moubeche
-- **LinkedIn:** https://www.linkedin.com/in/guillaumemoubeche/
-- **YouTube:** https://www.youtube.com/@lemlist
-- **Role:** Founder, lemlist | Investor
-- **Tier:** Tool Builder + Founder
+### 6. Armand Farrokh  
+https://www.linkedin.com/in/armand-farrokh/
 
-**Why included:**
-Built lemlist to a \$150M+ valuation using cold outreach as the
-primary growth channel. Has platform-level visibility into what
-outbound strategies work across thousands of campaigns. Provides
-both founder-level strategic perspective and campaign-level tactical
-insight.
+- **Role:** Sales Leader | Co-host, 30 Minutes to President’s Club  
+- **Tier:** Operator + Sales Execution Expert  
 
-**Content collected:**
-- 40 LinkedIn posts
-- YouTube transcripts (lemlist channel)
+**Why included:**  
+Armand Farrokh is a leading practitioner in modern B2B outbound execution, with hands-on experience building and scaling sales teams. His content focuses on cold calling, messaging, objection handling, and pipeline generation through structured, repeatable frameworks. Unlike high-level founders, his insights are grounded in day-to-day sales execution, making them directly applicable for building outbound systems.
 
-**Highest signal content:**
-- Outbound as a company growth engine
-- Founder-led sales strategies
-- Cold email campaign architecture
+**Content collected:**  
+- LinkedIn posts  
+- Podcast insights (30 Minutes to President’s Club)
 
-**Key insight:**
-> Outbound is not just a sales tactic — it's a company-building
-> strategy. When executed as a system, it becomes a predictable
-> revenue engine.
+**Highest signal content:**  
+- Cold call frameworks and live call breakdowns  
+- Messaging structure and delivery techniques  
+- Objection handling systems  
+- Pipeline generation through repeatable outbound plays  
 
-**⚠️ Caveat:**
-Recent LinkedIn content has shifted toward investing and founder
-lifestyle. Older content (2021–2023) is more outreach-focused.
-YouTube channel (lemlist) remains highly tactical and relevant.
-Cross-reference claims with non-tool-affiliated sources to
-account for potential platform bias.
+**Key insight:**  
+> Outbound performance improves when messaging, delivery, and
+> execution are standardized into repeatable frameworks rather
+> than relying on individual rep talent.
 
 **Date collected:** 16/04/2026
 
@@ -257,3 +262,137 @@ explaining messaging principles.
 > especially in first-touch outreach.
 
 **Date collected:** 16/04/2026
+
+### 8. Yurii Veremchuk
+- **LinkedIn:** https://www.linkedin.com/in/yuriiveremchuk/
+- **Role:** Cold Email Expert | Agency Founder
+- **Tier:** Technical Practitioner
+
+**Why included:**
+Veremchuk is one of the most technically rigorous voices in cold
+email — covering deliverability infrastructure, domain setup,
+sending limits, and campaign architecture. This fills a critical
+gap that most messaging-focused experts skip entirely. A cold
+email that never reaches the inbox is worthless.
+
+*Note: Less well-known than other sources — selected precisely
+because his technical depth is rare and high-value.*
+
+**Content collected:**
+- LinkedIn posts (technical cold email + deliverability)
+
+**Highest signal content:**
+- Email deliverability setup (DNS, SPF, DMARC, DKIM)
+- Inbox rotation strategies
+- Campaign structure and sending limits
+
+**Key insight:**
+> Technical infrastructure — domain health, inbox reputation, and
+> sending setup — is equally important as copy. Most outbound
+> failures are deliverability failures, not messaging failures.
+
+**Date collected:** 16/04/2026
+
+---
+
+### 9. Morgan J Ingram
+- **LinkedIn:** https://www.linkedin.com/in/morganjingramamp/
+- **Role:** Sales Trainer | Founder, AMP Creative
+- **Tier:** Educator
+
+**Why included:**
+Ingram focuses heavily on modern multi-channel outbound —
+specifically LinkedIn outreach, video prospecting, and personal
+branding for sales reps. Represents the newer generation of
+outbound that combines traditional cold outreach with social
+selling. Fills the LinkedIn + video prospecting angle in this
+research set.
+
+**Content collected:**
+- LinkedIn posts
+- YouTube transcripts
+
+**Highest signal content:**
+- LinkedIn outbound messaging sequences
+- Video prospecting frameworks
+- Personal brand-driven sales strategies
+
+**Key insight:**
+> Multi-channel outbound (cold email + LinkedIn + video) consistently
+> increases response rates vs. single-channel approaches. Video
+> especially stands out in crowded inboxes.
+
+**Note:**
+Some content leans motivational rather than tactical. Filter for
+framework-heavy posts when extracting insights for the playbook.
+
+**Date collected:** 16/04/2026
+
+---
+
+### 10. Josh Braun
+- **LinkedIn:** https://www.linkedin.com/in/josh-braun/
+- **Role:** Sales Trainer | Founder, Braun Training
+- **Tier:** Educator-Practitioner
+
+**Why included:**
+Braun is arguably the best voice in outbound sales for understanding
+*buyer psychology* — why prospects resist, how to reduce friction,
+and how to frame outreach from the buyer's perspective rather than
+the seller's. His "detachment framework" and objection handling
+philosophy provide the psychological foundation this playbook needs.
+
+**Content collected:**
+- LinkedIn posts (buyer psychology + objection frameworks)
+
+**Highest signal content:**
+- Objection handling without pressure tactics
+- Cold email opening line psychology
+- The "detachment" framework for outbound
+
+**Key insight:**
+> The best outbound doesn't feel like outbound. Understanding the
+> buyer's resistance, skepticism, and decision-making process allows
+> you to write outreach that feels helpful rather than intrusive.
+
+**Date collected:** 16/04/2026
+
+---
+
+## Coverage Map
+
+This expert set provides complete coverage across the cold
+outreach pipeline:
+STAGE 1 — FOUNDATION
+├── ICP + Positioning: Taylor Haren
+└── Sales Psychology: Josh Braun, Steli Efti
+
+STAGE 2 — INFRASTRUCTURE
+├── Technical Setup: Yurii Veremchuk
+└── CRM + Systems: Steli Efti (Close)
+
+STAGE 3 — EXECUTION
+├── Cold Email: Nick Abraham, Yurii Veremchuk
+├── Cold Calling: Jason Bay, Armand Farrokh, Will Aitken
+└── LinkedIn + Video: Morgan J Ingram, Will Aitken
+
+STAGE 4 — OPTIMIZATION
+├── System Design: Jason Bay, Florin Tatulea, Armand Farrokh
+
+
+---
+
+## What This Research Can Support
+
+These 10 sources collectively provide enough signal to build:
+- A complete cold outreach playbook (email + LinkedIn + calls)
+- ICP targeting and messaging frameworks
+- Technical deliverability setup guide
+- Multi-channel sequence templates
+- Objection handling library
+- Outbound system design for B2B SaaS teams
+
+---
+
+*Last updated: 16/04/2026
+*Collected by: Aravind Mudraveni
