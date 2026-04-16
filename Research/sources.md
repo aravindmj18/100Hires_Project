@@ -359,29 +359,6 @@ philosophy provide the psychological foundation this playbook needs.
 
 ---
 
-## Coverage Map
-
-This expert set provides complete coverage across the cold
-outreach pipeline:
-STAGE 1 — FOUNDATION
-├── ICP + Positioning: Taylor Haren
-└── Sales Psychology: Josh Braun, Steli Efti
-
-STAGE 2 — INFRASTRUCTURE
-├── Technical Setup: Yurii Veremchuk
-└── CRM + Systems: Steli Efti (Close)
-
-STAGE 3 — EXECUTION
-├── Cold Email: Nick Abraham, Yurii Veremchuk
-├── Cold Calling: Jason Bay, Armand Farrokh, Will Aitken
-└── LinkedIn + Video: Morgan J Ingram, Will Aitken
-
-STAGE 4 — OPTIMIZATION
-├── System Design: Jason Bay, Florin Tatulea, Armand Farrokh
-
-
----
-
 ## What This Research Can Support
 
 These 10 sources collectively provide enough signal to build:
