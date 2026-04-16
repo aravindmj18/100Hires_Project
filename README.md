@@ -201,8 +201,8 @@ Current progress:
 
 All content is organized per expert and per source:
 
-- `/research/youtube-transcripts/{expert-name}/`
-- `/research/linkedin-posts/{expert-name}/`
+- `/Research/linkedin-posts/`
+- `/Research/youtube-transcripts/`
 
 This structure enables systematic analysis and playbook development.
 
