@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Phase 1 — Environment Setup](#phase-1--environment-setup)
-- [Phase 2 — Research Project](#phase-2--research-project)
+- [Phase 2 — Research Project](#phase-2--research-project-cold-outreach-pipeline-for-b2b-saas)
 
 # Phase 1 — Environment Setup
 
@@ -124,6 +124,65 @@ This setup wasn’t very complex technically, but it made me realize how importa
 - Most issues happened because something small was missing (like Git), not because the tool was broken  
 - It’s better to understand why something failed instead of just trying random fixes  
 - Writing things down while working helped me stay clear and actually understand each step  
+
+
+---
+
+# Phase 2 — Research Project: Cold Outreach Pipeline for B2B SaaS ✅
+
+## Objective
+
+To build a structured research repository analyzing how top B2B SaaS
+practitioners design and execute cold outreach pipelines — with the
+goal of extracting repeatable frameworks and developing a real-world
+outbound playbook.
+
+This is not a content aggregation project.  
+The goal is **synthesis** — turning practitioner knowledge into
+an actionable system.
+
+---
+
+## Topic Selected
+**Cold Outreach Pipeline for B2B SaaS**
+
+### Why This Topic
+Cold outreach remains a high-ROI acquisition channel for
+early-stage B2B SaaS — especially when paid ads are too expensive
+and SEO is too slow to generate pipeline.
+
+Most resources on this topic are either too generic or too
+theoretical. This research focuses exclusively on **practitioners**
+— people actively running outbound campaigns — to extract what
+actually works in real-world outbound execution.
+
+---
+
+## Expert Roster
+
+| # | Expert | Role | Primary Signal |
+|---|--------|------|----------------|
+| 1 | [Jason Bay](https://www.linkedin.com/in/jasonbay/) | Founder, Outbound Squad | Prospecting Systems + Outbound Messaging |
+| 2 | [Nick Abraham](https://www.linkedin.com/in/nick-abraham/) | Co-founder, Leadbird | Cold Email Execution + Lead Generation |
+| 3 | [Taylor Haren](https://www.linkedin.com/in/taylor-haren/) | Founder, Haren Media | Offer Positioning + Outreach Messaging |
+| 4 | [Florin Tatulea](https://www.linkedin.com/in/florin-tatulea/) | B2B Growth Leader | Outbound Process + Pipeline Frameworks |
+| 5 | [Steli Efti](https://www.linkedin.com/in/steliefti/) | CEO, Close | Outbound Psychology + Conversion Principles |
+| 6 | [Armand Farrokh](https://www.linkedin.com/in/armand-farrokh/) | Sales Leader | Cold Calling + Outbound Execution |
+| 7 | [Will Aitken](https://www.linkedin.com/in/willaitken/) | Sales Creator | Sales Conversations + Cold Calling Execution |
+| 8 | [Yurii Veremchuk](https://www.linkedin.com/in/yurii-veremchuk/) | Cold Email Expert | Email Deliverability + Campaign Infrastructure |
+| 9 | [Morgan J Ingram](https://www.linkedin.com/in/morganjingram/) | Founder, AMP Creative | Multi-Channel Outreach + Video Prospecting |
+| 10 | [Josh Braun](https://www.linkedin.com/in/josh-braun/) | Founder, Braun Training | Messaging Psychology + Objection Handling |
+
+### Why These Experts
+
+These 10 were selected — not from the first page of Google —  
+but based on four strict criteria:
+
+- **Active execution** — they run real outbound campaigns  
+- **Proven track record** — results in B2B SaaS environments  
+- **Actionable content** — frameworks, scripts, real insights  
+- **Pipeline coverage** — together they cover the full outbound system  
+
 
 ## Author
 
