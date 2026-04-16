@@ -1,6 +1,13 @@
 # Cursor IDE Setup with Claude and Codex
 
 > Documenting the setup of Cursor IDE with Claude Code and Codex, including issues and solutions.
+> 
+## Table of Contents
+
+- [Phase 1 — Environment Setup](#phase-1--environment-setup)
+- [Phase 2 — Research Project](#phase-2--research-project)
+
+# Phase 1 — Environment Setup
 
 ## Overview
 
